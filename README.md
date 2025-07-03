@@ -1,8 +1,13 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iscrozo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iscrozo)
 [![](https://visitcount.itsvg.in/api?id=iscrozo&icon=0&color=0)](https://visitcount.itsvg.in)
----
 
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
+
+<p align="center">
+  <em>Desarrollador iOS apasionado por la tecnología, la innovación y el aprendizaje continuo.</em>
+</p>
+
+---
 
 ### 🚀 About Me
 
@@ -12,8 +17,10 @@ I'm a passionate iOS developer with a strong background in mobile and fullstack 
 - 🌱 **Learning:** Hybrid frameworks like React Native & Flutter
 - 💡 **Interests:** Mobile architecture, UI/UX, automation, and cloud integration
 - 🤝 **Open to:** Collaborations, freelance projects, and tech talks
-  
-<h3 align="center">🛠️ Tech Stack</h3>
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
@@ -29,3 +36,24 @@ I'm a passionate iOS developer with a strong background in mobile and fullstack 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+🚧 *Work in progress... Stay tuned!*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iscrozo&show_icons=true&theme=radical" width="400"/>
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
