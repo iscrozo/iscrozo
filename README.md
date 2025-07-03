@@ -4,36 +4,28 @@
 
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 
-#  👨🏻‍💻 About Me:
-A developer passionate about coding, with experience in backend, frontend, mobile, although my field is mobile the last years especially in iOS. </br> Learning new technologies and applying them in the work environment or freelance. </br>
-🌱 I’m currently learning **hybrid technologies such as React Native**
+### 🚀 About Me
 
-#  💻 Languages and Tools...
+I'm a passionate iOS developer with a strong background in mobile and fullstack development. I love building high-quality apps that make a difference, exploring new technologies, and sharing knowledge with the community.
 
-<p align="left">
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" **alt="iOS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" **alt="swift" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="objc" **alt="objc" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" **alt="dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle"  alt="oracle" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
-</div>
+- 🧑🏻‍💻 **Current Focus:** iOS development (Swift, SwiftUI, UIKit)
+- 🌱 **Learning:** Hybrid frameworks like React Native & Flutter
+- 💡 **Interests:** Mobile architecture, UI/UX, automation, and cloud integration
+- 🤝 **Open to:** Collaborations, freelance projects, and tech talks
+  
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS" alt="iOS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
-</br>
-<!-- https://github.com/devicons/devicon/tree/master/icons -->
